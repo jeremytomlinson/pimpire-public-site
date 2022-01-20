@@ -1,0 +1,17 @@
+User-agent: *
+Disallow: /JQM/
+
+User-agent: *
+Disallow: /mbed/
+
+User-agent: *
+Disallow: /misc/
+
+User-agent: *
+Disallow: /muck/
+
+User-agent: *
+Disallow: /sierra/
+
+User-agent: *
+Disallow: /wheatlord/
