@@ -1,4 +1,4 @@
-name: jeremytomlinson - $pimpire.com
+name: GitHub Artifacts - Release
 
 on:
   push:
